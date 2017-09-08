@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>All About Dogs</title>
+</head>
+<body>
+
+<h1>Dogs make the <em>best</em> pets!</h1>
+<h2>Fun Facts </h2>
+<ul>
+    <li> There are over 55 million dogs worldwide!</li>
+    <li> There are over 340 dog breeds!</li>
+    <li> An adult dog has 42 teeth!</li>
+    <li> 70 percent of people sign their dogs names on greeting cards!</li>
+</ul>
+
+<p>I love dogs because they are almost human like. I think its <str>amazing</str> how they can understand us when we talk to them. The first time my dog sat for me when i asked her.. i was astonished! </p>
+
+</body>
+</html>
