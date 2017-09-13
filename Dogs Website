@@ -6,7 +6,26 @@
 <body>
 
 <h1>Dogs make the <em>best</em> pets!</h1>
+<<img src = "https://www.kasandbox.org/programming-images/animals/retriever.png">
+
 <h2>Fun Facts </h2>
+<style>
+            h3 {
+            color: rgb(235, 120, 235);
+            }
+            
+            body {
+                background-color: rgb(227, 57, 0);
+            }
+            p {
+                color:rgb(201, 139, 201);
+            }
+       
+            h1 {
+            color:rgb(240, 223, 240);
+            }
+            
+        </style>
 <ul>
     <li> There are over 55 million dogs worldwide!</li>
     <li> There are over 340 dog breeds!</li>
@@ -14,7 +33,6 @@
     <li> 70 percent of people sign their dogs names on greeting cards!</li>
 </ul>
 
-<p>I love dogs because they are almost human like. I think its <str>amazing</str> how they can understand us when we talk to them. The first time my dog sat for me when i asked her.. i was astonished! </p>
-
+<p>I love dogs because they are almost human like. I think its <str>amazing</str> how they can understand us when we talk to them. The first time my dog sat for me when I asked her, it was pretty damn cool! </p>
 </body>
 </html>
